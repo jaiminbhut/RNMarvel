@@ -1,0 +1,18 @@
+export const en = {
+  characters: 'Characters',
+  noCharacterFound: 'No characters found',
+  loading: 'Loading...',
+  connectionError: 'Connection error',
+  networkError: 'Please check your internet connection',
+  serverError: 'Server is not available',
+  somethingWentWrong: 'Something went wrong',
+  portrayed: 'Portrayed',
+  occupation: 'Occupation',
+  appearedIn: 'Appeared in',
+  season: 'Season',
+  otherCharacters: 'Other characters',
+  favorites: 'Favorites',
+  noFavoritesFound: 'No favorites found',
+  search: 'Search',
+  tryAgain: 'Try again',
+};
